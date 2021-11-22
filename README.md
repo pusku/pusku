@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajon</h1>
-<h3 align="center">Software Engineer | Backend Enthusiast | DevOps Hobbyist | Agile
+<h3 align="center">Software Engineer | Backend Enthusiast | DevOps Hobbyist | Agile </h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=pusku alt=pusku/> </p>
 
 <p align="left"> <a href="https://twitter.com/itsrajon" target="blank"><img src="https://img.shields.io/twitter/follow/itsrajon?logo=twitter&style=for-the-badge" alt="itsrajon" /></a> </p>
