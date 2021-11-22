@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Design Patterns | AWS**
 - 💬 Ask me about **System Design**
 - 📫 How to reach me: **raahmansmail[at]gmail[dot][com]**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
